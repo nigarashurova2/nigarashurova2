@@ -16,9 +16,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on [Cubics Technology](https://www.cubics.technology/)
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
-
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I'm Full Stack Javascript Developer
 
 - 📫 How to reach me **nigarashurova4@gmail.com**
 
