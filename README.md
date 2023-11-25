@@ -3,7 +3,6 @@
 <div align=center> <img src="https://readme-typing-svg.herokuapp.com?size=38&center=true&vCenter=true&width=600&height=50&lines=I'm+Nigar+%F0%9F%91%8B;I'm+a+Frontend+Developer" alt="Headline" />
 <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
- ## Contact me
 <p align='center'>
  <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
