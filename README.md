@@ -20,7 +20,7 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📫 How to reach me **nigarashurova4@gmail.com**
 
 <!--Intro end-->
 
