@@ -1,6 +1,6 @@
 <div>
     <div align=center >
-        <img   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt02G5xcvMPEPQyS295oTfbJLAHAyB6RXHhw&usqp=CAU" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" width="100%">
+            <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
     </div>
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%red&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nigar+%F0%9F%91%8B;I'm+Frontend+Developer;" alt="Headline" />
