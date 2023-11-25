@@ -92,6 +92,8 @@
 
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"><img src="https://komarev.com/ghpvc/?username=lemanmiriyeva&style=flat-square&color=blue" alt=""></p>
+
 
 ----------------------------------------------------------------------
 Credit: [1010nishant](https://github.com/1010nishant)
