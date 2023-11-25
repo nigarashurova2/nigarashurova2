@@ -14,7 +14,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **JS, React, MeteorJS, MongoDB**
+- 🔭 I’m currently working on [Cubics Technology](https://www.cubics.technology/)
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
