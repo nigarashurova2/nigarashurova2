@@ -3,15 +3,6 @@
 <div align=center> <img src="https://readme-typing-svg.herokuapp.com?size=38&center=true&vCenter=true&width=600&height=50&lines=I'm+Nigar+%F0%9F%91%8B;I'm+a+Frontend+Developer" alt="Headline" />
 <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 
-<p align="start">
-  ### :woman_technologist: &nbsp;About Me :
-
-I am a Full Stack Javascript Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-- 🔭 I’m currently working on 
-
-- 📫 How to reach me **nigarashurova2@gmail.com**
-</p>
 
 
 
