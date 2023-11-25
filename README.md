@@ -4,8 +4,7 @@
 <img width="100%" height="auto" src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" height="175px"/>
 <br/> </br>
 <p align="center" color="blue"> 
-  <br>
-  Visitor count<br>
+  Visitor count<br> <br> 
   <img color="blue" src="https://profile-counter.glitch.me/nigarashurova2/count.svg"/>
 </p>
 
