@@ -3,7 +3,7 @@
         <img   src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScTDj_3c-P5J5IwYVwNQLjlKJ7b0XS67uqsT449jCroeUQyaibeBj4A7SzwlA2RFno3qo&usqp=CAU?border-radius=%50" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%red&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nigar+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+        <img src="https://readme-typing-svg.herokuapp.com?color=%red&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Nigar+%F0%9F%91%8B;Frontend+Developer;" alt="Headline" />
     </div>
     <div align=center>
         <a href="https://www.linkedin.com/in/ahmedfathydev/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
